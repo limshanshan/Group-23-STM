@@ -1,0 +1,8 @@
+../Core/Src/cmds.c:5:17:get_new_cmd	16	static
+../Core/Src/cmds.c:19:13:cmd_ack	32	static
+../Core/Src/cmds.c:29:6:cmd_process	40	static
+../Core/Src/cmds.c:120:10:cmd_pop	16	static
+../Core/Src/cmds.c:126:10:cmd_peek	4	static
+../Core/Src/cmds.c:131:10:cmd_peek_nxt_drive	16	static
+../Core/Src/cmds.c:137:6:cmd_end	16	static
+../Core/Src/cmds.c:143:9:cmd_type_match	16	static

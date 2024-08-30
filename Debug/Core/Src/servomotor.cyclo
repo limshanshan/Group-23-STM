@@ -1,0 +1,3 @@
+../Core/Src/servomotor.c:48:6:servomotor_init	1
+../Core/Src/servomotor.c:53:6:servomotor_setvalue	1
+../Core/Src/servomotor.c:60:6:servomotor_setangle	9

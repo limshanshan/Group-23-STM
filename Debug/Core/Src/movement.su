@@ -1,0 +1,6 @@
+../Core/Src/movement.c:18:6:movement_init	16	static
+../Core/Src/movement.c:24:6:read_gyroZ	16	static
+../Core/Src/movement.c:29:6:read_accel	24	static
+../Core/Src/movement.c:34:7:readMagnetometer	24	static
+../Core/Src/movement.c:40:6:read_heading	16	static
+../Core/Src/movement.c:45:6:set_bias	16	static

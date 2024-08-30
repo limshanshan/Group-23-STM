@@ -1,0 +1,2 @@
+../Core/Src/ultrasonicsensor.c:5:6:initializeUltrasonicSensor	16	static
+../Core/Src/ultrasonicsensor.c:10:6:UltrasonicSensor_delay	16	static

@@ -1,0 +1,4 @@
+../Core/Src/magnetometer.c:6:13:magcal_preload	1
+../Core/Src/magnetometer.c:16:6:initialize_magnetometer	1
+../Core/Src/magnetometer.c:24:6:magnetometer_settings	20
+../Core/Src/magnetometer.c:151:6:correctMagnetometer	1

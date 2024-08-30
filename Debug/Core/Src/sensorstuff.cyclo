@@ -1,0 +1,11 @@
+../Core/Src/sensorstuff.c:21:14:LowPassFilter	1
+../Core/Src/sensorstuff.c:26:14:ReadMagnetometerAngle	2
+../Core/Src/sensorstuff.c:38:6:initializeSensors	1
+../Core/Src/sensorstuff.c:59:6:sensors_us_trig	1
+../Core/Src/sensorstuff.c:69:6:fetchUltrasoundSensorData	1
+../Core/Src/sensorstuff.c:77:14:computeDistanceFromIrSensor	3
+../Core/Src/sensorstuff.c:95:6:fetchIRSensorData	3
+../Core/Src/sensorstuff.c:106:6:fetchGyroscopeZData	1
+../Core/Src/sensorstuff.c:113:6:fetchAccelReadings	2
+../Core/Src/sensorstuff.c:121:6:calculatedirection	1
+../Core/Src/sensorstuff.c:125:6:calibrateSensorBias	4
